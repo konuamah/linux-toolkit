@@ -6,8 +6,7 @@ This project is a personal Linux server environment toolkit focusing on automati
 ## Features
 - Automated disk space monitoring with email alerts
 - Scheduled maintenance tasks via cron
-- Backup scripts (to be added)
-- Log rotation and cleanup (to be added)
+
 
 ## Setup
 
