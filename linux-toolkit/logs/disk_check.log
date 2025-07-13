@@ -1,0 +1,45 @@
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Disk usage is normal: 1%
+Sun Jul 13 05:05:05 GMT 2025: OK - Disk usage is 1%
+Sun Jul 13 05:06:05 GMT 2025: OK - Disk usage is 1%
+/home/kelvi/linux-toolkit/scripts/disk_check.sh: line 8: [: 0.2: integer expression expected
+Sun Jul 13 05:07:05 GMT 2025: OK - Disk usage is 1%
+Sun Jul 13 05:08:06 GMT 2025: ALERT SENT - Disk usage warning: Current usage is 1% on root partition.
+Sun Jul 13 05:09:09 GMT 2025: ALERT SENT - Disk usage warning: Current usage is 1% on root partition.
+Sun Jul 13 05:10:07 GMT 2025: ALERT SENT - Disk usage warning: Current usage is 1% on root partition.
+Sun Jul 13 05:11:08 GMT 2025: ALERT SENT - Disk usage warning: Current usage is 1% on root partition.
+Sun Jul 13 05:12:06 GMT 2025: ALERT SENT - Disk usage warning: Current usage is 1% on root partition.
